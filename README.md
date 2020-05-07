@@ -1,2 +1,2 @@
-# React-exercises
-intro to react.js to generate project, create react element, custom &amp; function component .
+# library-book-list
+Build library book list web application with robust user interface using React.js
